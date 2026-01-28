@@ -80,7 +80,7 @@ You are a boy cursed with an eternal shadow, prophesied to either save or destro
 - Damage: 0 HP, but drains 8 mana per hit
 - Spawn Rate: Lower (varies with game conditions)
 - Speed: Slightly faster than player
-- Special: Can attach to your shoulder and continuously drain mana until shot off
+- Special: Can attach to your character and continuously drain mana until shot off
 - Drops: Heart (15-second despawn timer, drop chance varies with conditions)
 
 ### Special Abilities
