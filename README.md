@@ -31,7 +31,7 @@ A 2D game created in Godot exploring themes of "Shadow" and "Now you see me, now
 - **Left-Click(mouse):** Shoot projectile
 - **Ctrl+S:** Skip opening cutscene
 - **X:** Summon void
-- **X:** Enter/exit shadow-mode (toggle)
+- **V:** Enter/exit shadow-mode (toggle)
 - **ESC:** Pause menu
 
 ### Prophecy(for context)
